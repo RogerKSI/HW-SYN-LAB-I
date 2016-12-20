@@ -1,1 +1,1 @@
-# HW-SYN-LAB-I
+# Project Jumpgame on STM32F4 discovery board
